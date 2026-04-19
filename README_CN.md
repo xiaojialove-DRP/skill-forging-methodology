@@ -40,13 +40,13 @@
 1. DEFINING（定义）
    ↓ 核心原则是什么？为什么重要？
 
-2. INSTANTIATING（具体化）⭐ 最关键的一层
+2. INSTANTIATING（场景举例）⭐ 最关键的一层
    ↓ 这在实践中是什么样的？（具体例子）
 
-3. FENCING（围栏）
+3. FENCING（边界定义）
    ↓ 什么时候适用？什么时候不适用？
 
-4. VALIDATING（验证）
+4. VALIDATING（验证测试）
    ↓ 怎样验证它是否有效？（测试用例）
 
 5. CONTEXTUALIZING（文化适配）
